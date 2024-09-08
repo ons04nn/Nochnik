@@ -1,0 +1,147 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+@font-face {
+	font-family: "Bebas Neue";
+	src: local("Bebas Neue"), url("../fonts/Bebas_Neue/BebasNeue-Regular.ttf");
+font-weight: 400;
+}
+
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  
+
+  h1 {
+    display: flex;
+align: center;
+justify-content: space-around;
+color: rgb(255, 212, 121);
+margin:0;
+font-family: "Bebas Neue";
+font-size: 96px;
+}
+
+h2{
+    font-family: "Bebas Neue";
+    margin: 0;
+    color: white;
+    font-size: 75px;
+}
+.block1_text { text-align: center;}
+
+p {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+    margin-top: 19px;
+    margin-bottom: 19px;
+    
+    }
+
+    .li {
+        display: flex;
+        justify-content: space-between;
+        cursor: pointer;
+        font-family: "Bebas Neue";
+        font-size: 16px;
+        }
+main {margin-left: auto;
+margin-right: auto;}
+body {background-color: #1F2A32;
+margin:0;}
+
+header
+{
+    
+background: url(../img/hero-bg.png);
+background-repeat: no-repeat;
+height: 750px;
+width: 1440px;
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+
+.header_nav {
+    padding: 30px 135px 0px 135px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navigation {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    color: white;
+}
+.big_logo {
+    width: 526px;
+    margin: 125px 0 0 779px;
+}
+
+
+.block1 {
+    height: 1138px;
+    width: 1042px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 0 150px 0;
+    
+}
+
+.block2 {
+    height:768px;
+    width: 1440px;
+position: relative;
+background-image: url(../img/beast-bg.png);
+background-repeat: no-repeat;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin: 150px;
+
+}
+
+.bigman {
+    display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.train_card {
+height: 400px;
+width: 268px;}
+
+.stroke {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bl3_text {padding: 250px 0 0 140px;}
+
+.bl3_s_text {padding: 0 0 0 140px;
+font-size: 22px;}
+
+.text1 {
+text-align: center;
+padding: 155px 0 60px 0;
+
+}
+
+.logo {cursor: pointer;}
+
+.navigation {
+width: 446px;
+margin: 0px;
+justify-content: space-between;
+}
