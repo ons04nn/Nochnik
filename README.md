@@ -1,1 +1,1 @@
-<a href="https://ons04nn.github.io/lesson1.github.io/"> Site </a>
+<a href="https://ons04nn.github.io/lesson1/"> Site </a>
